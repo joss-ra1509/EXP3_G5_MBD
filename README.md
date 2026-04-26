@@ -37,7 +37,7 @@ Este proyecto fue rediseñado tras la asesoría técnica para elevar los estánd
 El script incluye una sección de **25 casos de prueba** documentados:
 * **8 Casos de ror:** Validación de que el sistema bloquea correctamente datos corruptos o acciones no permitidas.
 Éxito:** Verificación de flujos operacionales normales.
-* **17 Casos de Er* **17 Casos de Error:** Validación de que el sistema bloquea correctamente datos corruptos o acciones no permitidas.
+* **17 Casos de Error:** Validación de que el sistema bloquea correctamente datos corruptos o acciones no permitidas.
 ---
 
 ## ⚙️ Instrucciones de Uso
